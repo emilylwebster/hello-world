@@ -1,5 +1,5 @@
 # hello-world
-<h1> My code first: girls repository </h1>
+<h2> My code first: girls repository </h2>
 <br>
 <div> Hello, my name is Emily and I work for LSE Generate. </div>
 <br>
